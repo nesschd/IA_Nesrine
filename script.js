@@ -1,3 +1,5 @@
+/* globals ml5 select */
+
 // The image we want to classify
 var img = document.querySelector("img");
 // we create an Image Classifier using the "MobileNet" model
